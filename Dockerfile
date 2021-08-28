@@ -7,7 +7,7 @@ FROM fusuf/whatsasena:latest
 #want it, that you can change the software or use pieces of it in new
 #free programs, and that you know you can do these things.
     #API_ID = int(os.environ.get("API_ID", 1))
-    #API_HASH = os.environ.get("API_HASH", None)
+    #API_HASH = os.environ.get("API_HASH", None) h
     #BOT_TOKEN = os.ehttps://www.youtube.com/watch?v=mDnJ7q3S3eYnviron.get("BOT    #API_ID = int(os.environ.get("API_ID", 1))
     #API_HASH = os.environ.get("API_HASH", None)
     #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)

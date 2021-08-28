@@ -11,7 +11,7 @@ const sql = require('./sql/greetings');
 
 const Language = require('../language');
 const Lang = Language.getString('greetings');
-dsd    #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
+dsd    #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)jj
     #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
     #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))

@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/72caf817d141c24cab7cb.jpg" width="400" height="400"/>
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/T REX PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/NOTY REX PUBLIC 🔞-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/TRexWa"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 HIRUWA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TRexWa/T-REX-QR-SESSION)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/Dark-Knight-Hiruwa/T-REX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=comming soon)
      </div>
 <br>
 <br >
@@ -61,18 +61,6 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
 CREATED BY HIRUWA
 ```
-
-## Helpers
-<div align="center">
-
-
-<div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="200" height="200">
-  <p>👸💎 QUEEN AMDI BOT 💎👸</p>
-</div>
-    <a href="https://github.com/BlackAmda/QueenAmdi"><img title="White" src="https://img.shields.io/badge/QueenAmdi Base Bot-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-</div>
     
 
 

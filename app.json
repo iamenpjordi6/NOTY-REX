@@ -1,8 +1,8 @@
 {
-    "name": "T-Rex V1.0",
-    "description": "❰🍁🔱  T Rex BOT  🔱🍁❱ is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg",
-    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "T-Rex"],
+    "name": "NOTY REX V1.0",
+    "description": " ❰🍁🔱  NOTY REX  🔞 🔱🍁❱   is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "logo": "https://telegra.ph/file/72caf817d141c24cab7cb.jpg",
+    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "NOTY-REX"],
     "repository": "",
     "website":   "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
     "success_url": "https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML",
@@ -87,12 +87,12 @@
         "MENU": {
             "description": "Do Not Chnge ❌",
             "required": true,
-            "value": "trex"
+            "value": "noty"
         },
          "ALIVE_LOGO": {
             "description": "Alive message Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg"
+            "value": "https://telegra.ph/file/72caf817d141c24cab7cb.jpg"
         },
         "WELCOME_LOGO": {
             "description": "To change the welcome message video, enter your video link below.(Upload the video you want to https://www.mailboxdrive.com/upload/ and paste the link here.)",

@@ -5,7 +5,7 @@
     "LANGCODE": "en",
     "AUTHOR": "AsenaDev",
     "STRINGS": {
-        "_asena": {
+        "_trex": {
             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",

@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Knight-Hiruwa&repo=T-REX&theme=nightowl)](https://github.com/Dark-Knight-Hiruwa/T-REX)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Knight-Hiruwa&repo=NOTY-REX&theme=nightowl)](https://github.com/Dark-Knight-Hiruwa/T-REX)
   </div>
     
 ## Setup
